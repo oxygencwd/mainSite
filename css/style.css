@@ -1,0 +1,89 @@
+.thumb {
+    margin-bottom: 30px;
+}
+
+.navbar-inverse{
+	background-color: #000;
+	border-color: #000;
+}
+
+.logo{
+	margin-top: 3px;	
+}
+
+.navbar-nav>li>a{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	font-size: 16px;
+}
+
+.item{
+	margin-bottom: 40px;
+}
+
+.item p, .item ul{
+	font-size: 16px;
+}
+
+.item ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+h1{
+	text-align: center;
+	font-size: 42px;
+	
+}
+
+h2{
+	font-size: 26px;
+}
+
+h3{
+	font-size: 22px;
+}
+
+h1, h2{
+	color: #336688;
+}
+
+.equipo .pic{
+	margin-top: 60px;
+}
+
+footer {
+	font-size: 15px;
+	color: white;
+	height: 100px;
+	margin-bottom: -50px;
+	background-color: black;
+}
+
+footer p{
+	margin-top: 35px
+}
+.espacio{
+	margin-top: 40px;
+}
+.centrado{
+	margin-top: 10px;
+	text-align: center;
+}
+
+textarea{
+	resize:none;
+}
+
+@media (max-width: 768px){
+	.navbar-toggle{
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+
+	.logo{
+		width: 189px;
+		height: 55.2px;
+	}
+}
+
